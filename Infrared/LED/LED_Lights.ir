@@ -1,8 +1,8 @@
 Filetype: IR signals file
 Version: 1
 # 
-# Category: Home Appliances
-# Generic LED Lights - No Specific Model
+# Category: LED
+# Generic LED Lights - No Specific Model (i guess)
 # Captured by: ZilXen
 # 
 name: Power_ON
