@@ -1,4 +1,4 @@
-# Flipper
+# Personal-FlipperDB
 FlipperZero user since ‎October ‎9, ‎2023
 ---
 This repository contains files that I captured (duh, what did you expect? Another F0 repo with same files over and over? xD)
