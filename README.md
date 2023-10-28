@@ -25,4 +25,4 @@ I don't force you, but if you'd like to support me, here you can:
 
 ```ETH```: 0x4f046f760105988c29c897e38d7072e39a98c903
 
-![image](https://tenor.com/b1G30.gif) 
+![image]([https://tenor.com/b1G30.gif](https://tenor.com/view/flipperzero-flipper-zero-animations-gif-27534190)https://tenor.com/view/flipperzero-flipper-zero-animations-gif-27534190) 
