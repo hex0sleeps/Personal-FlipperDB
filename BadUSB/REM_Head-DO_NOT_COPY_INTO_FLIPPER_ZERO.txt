@@ -1,0 +1,17 @@
+REM Est. Execution Time:xxx ms (over 60000ms will transform into seconds // 69024 ms -> 69s)
+REM Character Count: 	xxx (divide number with space after every 3rd number like so -> 12 345)
+REM Author: 		ZilXen
+REM Description: 		xxx (keep it as short as possible, after every 90th char new line - if 90th char is in
+REM Description: 			middle of word - keep it less than 90)
+REM Version: 		1.0
+REM Category: 		xxx
+REM Target: 		Windows 10,11 // Android 4.4+ // Linux
+
+
+REM Est. Execution Time:xxx ms 
+REM Character Count: 	xxx
+REM Author: 		ZilXen
+REM Description: 		xxx
+REM Version: 		1.0
+REM Category: 		xxx
+REM Target: 		xxx

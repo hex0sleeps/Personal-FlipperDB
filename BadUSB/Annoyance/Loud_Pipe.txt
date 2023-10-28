@@ -1,0 +1,20 @@
+REM Est. Execution Time:8 500 ms 
+REM Character Count: 	415
+REM Author: 		ZilXen
+REM Description: 		Script sets computer volume to 100 and then open video of metal pipe dropping.
+REM Version: 		1.0
+REM Category: 		Annoyance
+REM Target:			Windows 10,11
+DELAY 500
+GUI r
+DELAY 400
+STRING powershell -w h $k=[Math]::Ceiling(100/2);$o=New-Object -ComObject WScript.Shell;for($i=0;$i -lt $k;$i++){$o.SendKeys([char] 175)}
+ENTER
+DELAY 500
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=P5R0FbEQBVM
+ENTER
+DELAY 2000
+STRING f
+DELAY 400

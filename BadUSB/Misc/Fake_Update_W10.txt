@@ -1,0 +1,14 @@
+REM Est. Execution Time:4 200 ms 
+REM Character Count: 	96
+REM Author: 		ZilXen
+REM Description: 		Opens on Microsoft Edge website with fake Windows 10 update and then fullscreens it.
+REM Version: 		1.0
+REM Category: 		Misc
+REM Target: 		Windows 10,11
+DELAY 1000
+GUI r
+DELAY 1000
+STRING microsoft-edge:https://fakeupdate.net/win10ue/
+ENTER
+DELAY 2000
+F11

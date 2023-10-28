@@ -1,0 +1,23 @@
+REM Est. Execution Time:6 400 ms 
+REM Character Count: 	149
+REM Author: 		ZilXen
+REM Description: 		This command lists all installed programs on a Windows computer with their names and
+REM Description: 			versions in alphabetical order.
+REM Version: 		1.0
+REM Category: 		Misc
+REM Compatible:		Windows 7,8,10,11
+REM
+DELAY 2000
+GUI r
+DELAY 1000
+STRING cmd
+DELAY 500
+ENTER
+DELAY 2000
+STRING cls
+DELAY 250
+ENTER
+DELAY 250
+STRING wmic product get name,version | sort
+DELAY 250
+ENTER
