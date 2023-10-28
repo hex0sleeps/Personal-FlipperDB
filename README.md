@@ -24,5 +24,3 @@ I don't force you, but if you'd like to support me, here you can:
 ```BTC```: 188ZNdiboWvZXxLy2x2D88GzKkjMFCqb15
 
 ```ETH```: 0x4f046f760105988c29c897e38d7072e39a98c903
-
-![Flipper Chilling](https://tenor.com/b1G30.gif) 
