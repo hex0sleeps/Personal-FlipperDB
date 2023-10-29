@@ -3,17 +3,20 @@ FlipperZero user since ‎October ‎9, ‎2023
 ---
 This repository contains files that I captured (duh, what did you expect? Another F0 repo with same files over and over? xD)
 
-## Bad USB
+## BadUSB
 
 Currently divided into 3 categories, with more to come (maybe).
 - Annoyance - Basically for annoying your friends
 - ASCII - Classic ASCII art
 - Misc - Either stuff waiting to be sorted or stuff that would have an entire category for itself (```Show_WiFi_Passwords.txt``` isn't mine, but its so good I had to include it)
+### BadUSB-resources
+
+Really just place store text/art that has to be typed out as part of script, but cannot be in normal "STRING" way (for example you cannot type out braille or boxes, or anything outside of the basic ASCII range using the Alt key). 
 
 ## Infrared
 
 Mainly I have "harvested" remotes I have found at home, currently there are saved 5 remotes in over 10 files (i guess, I'm not really a math guy).
-The reason for having more files than remotes is that one remote can control multiple devices. This is because of sorting by ```Catergory``` > ```Brand```  > ```Model```,and my preference is to have one file per model, primarily for easier management and to keep file names as short as possible
+The reason for having more files than remotes is that one remote can control multiple devices. This is because of sorting by ```Catergory``` > ```Brand```  > ```Model```, and my preference is to have one file per model, primarily for easier management and to keep file names as short as possible.
 
 ## SubGHz
 
