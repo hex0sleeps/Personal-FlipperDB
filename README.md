@@ -16,7 +16,7 @@ Really just place store text/art that has to be typed out as part of script, but
 ## Infrared
 
 Mainly I have "harvested" remotes I have found at home, currently there are saved 5 remotes in over 10 files (i guess, I'm not really a math guy).
-The reason for having more files than remotes is that one remote can control multiple devices. This is because of sorting by ```Catergory``` > ```Brand```  > ```Model```, and my preference is to have one file per model, primarily for easier management and to keep file names as short as possible.
+The reason for having more files than remotes is that one remote can control multiple devices. This is because of sorting by ```Category``` > ```Brand```  > ```Model```, and my preference is to have one file per model, primarily for easier management and to keep file names as short as possible.
 
 ## SubGHz
 
