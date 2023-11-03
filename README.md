@@ -23,7 +23,7 @@ The reason for having more files than remotes is that one remote can control mul
 There isn't much here, except for one cloned remote with 3 actions used at Dinopark Cinema in Prague (I worked there, and I wanted to test my new flipper by copying it. Don't judge me; I just wanted to have some fun).
 
 ---
-I don't want to force you, but if you'd like to support me, here's how you can:
+If you'd like to support me, here's how you can:
 
 ```BTC```: 188ZNdiboWvZXxLy2x2D88GzKkjMFCqb15
 
