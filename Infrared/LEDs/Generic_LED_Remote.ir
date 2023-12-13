@@ -1,10 +1,6 @@
 Filetype: IR signals file
 Version: 1
 # 
-# Category: Home Appliances
-# Generic LED Lights - No Specific Model
-# Captured by: ZilXen
-# 
 name: Power_ON
 type: parsed
 protocol: NECext
@@ -17,13 +13,13 @@ protocol: NECext
 address: 00 EF 00 00
 command: 02 FD 00 00
 # 
-name: Bright_lower
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 01 FE 00 00
 # 
-name: Bright_up
+name: Brighter
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
