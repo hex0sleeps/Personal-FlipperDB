@@ -1,5 +1,5 @@
 # Personal-FlipperDB
-FlipperZero user since ‎October ‎9, ‎2023
+FlipperZero user since ‎October ‎9, ‎2023 (got 2nd FZ on July 23, 2024)
 ---
 This repository contains mainly files that I have captured (what did you expect? Another F0 repo with same files over and over?)
 
@@ -14,7 +14,8 @@ Currently divided into 3 categories, with more to come (maybe).
 
 Really just place store text/art that has to be typed out as part of script, but cannot be in normal "STRING" way (for example you cannot type out braille or boxes, or anything outside of the basic ASCII range using the Alt key).
 
-> Soon to be moved to my website
+> Soon to be moved to my website  /Nov. 21, 2023/
+>> I know about this, im working on it  /Aug. 15, 2024/
 
 ## Infrared
 
@@ -23,11 +24,9 @@ The reason for having more files with same "code" is that one remote can control
 
 ## SubGHz
 
-This might be the smallest Sub-GHz repo for Flippers, but y'know - something is still more than nothing. To sum it up there is one cloned remote with 3 actions used at Dinopark Cinema in Prague where I worked and alarm disabler for Škoda from '87-'90.
+This might be the smallest Sub-GHz repo on entire GitHub, but y'know - it ain't much, but it's honest work. To sum it up there is one cloned remote with 3 actions used at Dinopark Cinema in Prague where I worked and alarm disabler for Škoda cars from '87-'90.
 
 ---
-If you'd like to support me, here's how you can:
+If you'd like to support me,...
 
-BTC: ```188ZNdiboWvZXxLy2x2D88GzKkjMFCqb15```
-
-ETH: ```0x4f046f760105988c29c897e38d7072e39a98c903```
+...you can't because I don't want any. 
